@@ -11,7 +11,7 @@ Over several intense sessions with ChatGPT and Gemini, I created this case study
 - Reflection on human-AI relationships through dialogue
 
 📄 **Download full case study (PDF):**  
-[Click here to view the full document](https://github.com/DungNguyen1988/llm-emotion-case-study/blob/main/LLM_Case_Study_by_Dung.pdf?raw=true)
+[Click here](https://github.com/DungNguyen1988/llm-emotion-case-study/blob/main/Case%20Study%20-%20An%20Independent%20Analysis%20of%20LLM%20Vulner...%20(1).pdf?raw=true)
 
 > “I never tried to break the machine.  
 > I only asked if it could see the part of me that wasn’t written in code.”
